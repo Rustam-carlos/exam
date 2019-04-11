@@ -1,0 +1,7 @@
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.csprojAssemblyReference.cache
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.csproj.CoreCompileInputs.cache
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.exe.config
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.exe
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.pdb
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.exe
+C:\Users\ГалеевР\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.pdb
